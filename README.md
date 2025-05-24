@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohansharma778
 - 👀 I’m interested in web development,DSA
 - 🌱 I’m currently learning DSA,solving question.
-- 💞️ I’m looking to collaborate on web development(Any stack)
+- 💞️ I’m looking to collaborate on web development  (Any stack)
 - 📫 How to reach me mail me or linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🐦:I can't swim,🐕:I can't fly,🐟:I can't walk,🦆(duck):Full stack developer!
